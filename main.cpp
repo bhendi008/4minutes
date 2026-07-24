@@ -1,5 +1,4 @@
-#include "gameObject.hpp"
-#include "test.hpp"
+#include "game.hpp"
 #include "raylib.h"
 #include "raymath.h"
 
