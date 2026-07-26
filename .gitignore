@@ -2,3 +2,4 @@
 *.out
 *.swo
 *.dSYM
+*.DS_store
